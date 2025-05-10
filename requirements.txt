@@ -1,0 +1,23 @@
+| İngilizce Kelime/Phrase | Unity Animator Trigger İsmi | Animasyon Açıklaması (örnek)       |
+| ----------------------- | --------------------------- | ---------------------------------- |
+| hello                   | hello                       | El sallama                         |
+| thank you               | thank\_you                  | Eller göğüste, baş eğme            |
+| i love you              | i\_love\_you                | Kalp işareti (ellerle kalp)        |
+| yes                     | yes                         | Başını yukarı-aşağı sallama        |
+| no                      | no                          | Başını sağ-sol sallama             |
+| stop                    | stop                        | Eller öne, “dur” hareketi          |
+| goodbye                 | goodbye                     | El sallama (farklı açıda)          |
+
+| help                    | help                        | El havaya kaldırma                 |
+| sorry                   | sorry                       | Baş eğerek el göğüste              |
+| please                  | please                      | İki el birleştirip göğüste         |
+| good morning            | good\_morning               | Hafif el kaldırma, gülümseme       |
+| good night              | good\_night                 | El başa götürüp uyuma işareti      |
+| what                    | what                        | Eller yana açma                    |
+| where                   | where                       | El göğüsten ileri açma             |
+| who                     | who                         | İşaret parmağıyla kendini gösterme |
+| when                    | when                        | El bileğinde saat gösterme         |
+| how                     | how                         | Eller ileri-geri açma              |
+| fine                    | fine                        | Başını hafifçe eğme ve gülümse     |
+| bathroom                | bathroom                    | Bel işareti (banyo işareti)        |
+| hungry                  | hungry                      | Göğüs önüne el koyma               |
